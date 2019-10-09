@@ -1,1 +1,1 @@
-RAM disk block device that encrypts when writes to RAM, and decrypts when reads form RAM
+RAM disk block device: encrypts and writes to RAM, and decrypts and reads form RAM to stdout.
