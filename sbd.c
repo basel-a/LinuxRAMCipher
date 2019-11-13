@@ -1,4 +1,4 @@
-//nightm4r3
+//by nightm4r3
 
 /*
  * A sample, extra-simple block driver. Updated for kernel 2.6.31.
